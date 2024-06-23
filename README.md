@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning phthon to get knowledge about coding 
 - 💞️ I’m looking to collaborate on large scale data entry projects
 - 📫 You can contact me with email  ramzaniqbal5031@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Thank you
 
 <!---
 JaaNi302/JaaNi302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
